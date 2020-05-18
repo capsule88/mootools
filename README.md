@@ -34,4 +34,4 @@ Some arbitrary section examples:
 * Misc
 * Known issues
 
-The name is up to you, but remember to keep it meaningful and simple. Arbitrary sections are always optional.
+https://mootools.net/forge/profile/RKN777
