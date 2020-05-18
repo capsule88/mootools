@@ -1,0 +1,24 @@
+{
+    "name": "capsule88/mootools",
+    "type": "library",
+    "description": "RKN",
+    "keywords": ["RKN","77"],
+    "homepage": "https://github.com/capsule88/mootools",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "RKN777",
+            "email": "rkn777@gmail.com",
+            "homepage": "https://www.rknslot.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Monolog": "src"
+        }
+    }
+}
