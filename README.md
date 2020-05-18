@@ -1,5 +1,6 @@
 Plugin Name
 ===========
+(https://www.rknslot.com)
 
 ![Screenshot](https://www.rknslot.com/assets/banner/playstar.jpg)
 
