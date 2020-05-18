@@ -1,0 +1,2 @@
+# mootools
+test mootools
